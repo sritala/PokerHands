@@ -1,0 +1,32 @@
+Kaksi paria:
+
+Kortit = [4♠, 7♠, 7♥, Kuningatar♣, Kuningatar♠]
+Ensimmäisen pelaajan käsi: Kaksi paria
+
+Kortit = [Ässä♠, Kuningas♠, Jätkä♣, 7♦, 10♦]
+Toisen pelaajan käsi: 
+
+Kortit = [9♠, 8♠, 2♣, 2♠, 8♦]
+Kolmannen pelaajan käsi: Kaksi paria
+
+Väri:
+
+Kortit = [5♠, 10♣, Kuningas♦, 6♥, 4♣]
+Ensimmäisen pelaajan käsi: 
+
+Kortit = [4♥, 10♥, 5♥, 3♥, Kuningatar♥]
+Toisen pelaajan käsi: Väri
+
+Kortit = [Kuningatar♠, 6♣, 7♠, 8♠, 9♦]
+Kolmannen pelaajan käsi:
+
+Suora:
+
+Kortit = [7♣, Ässä♠, 9♥, Jätkä♦, 4♠]
+Ensimmäisen pelaajan käsi: 
+
+Kortit = [7♥, 9♣, 10♠, 8♥, 5♦]
+Toisen pelaajan käsi: 
+
+Kortit = [5♠, 2♠, 4♥, 6♦, 3♥]
+Kolmannen pelaajan käsi: Suora
